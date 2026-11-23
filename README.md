@@ -3,7 +3,7 @@
 Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con FastAPI.
 
 - **Aprendiz:** Jhonatan David Hernandez Rodriguez
-- **Curso y mecánica:** (ADSO17, Sonrisa de la suerte)
+- **Curso y mecánica:** Ciencias – Racha diaria
 - **Aplicación publicada:** https://plantilla-plataforma-ludica.vercel.app
 
 ![Captura de la aplicación publicada](docs/captura.png)

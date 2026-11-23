@@ -5,8 +5,8 @@ la API y el script entregar.py los leen de este archivo.
 """
 
 APRENDIZ = "Jhonatan David Hernandez Rodriguez"
-CURSO = "ADSO17"
-MECANICA = "Sonrisa de la suerte"
+CURSO = "Ciencias"
+MECANICA = "Racha diaria"
 
 # Dirección pública de la aplicación desplegada.
 # Ejemplo: "https://plataforma-ludica-abcd.onrender.com"
