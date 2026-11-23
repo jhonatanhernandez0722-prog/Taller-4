@@ -4,7 +4,9 @@ Prototipo de una plataforma web lúdica de cursos para niños, desarrollado con 
 
 - **Aprendiz:** Jhonatan David Hernandez Rodriguez
 - **Curso y mecánica:** (ADSO17, Sonrisa de la suerte)
-- **Aplicación publicada:** (complete con la URL de Render)
+- **Aplicación publicada:** https://plantilla-plataforma-ludica.vercel.app
+
+![Captura de la aplicación publicada](docs/captura.png)
 
 ## Ejecutar en su equipo
 
