@@ -3,6 +3,13 @@ name = "plataforma-ludica"
 version = "0.1.0"
 description = "Plataforma web lúdica de cursos para niños"
 requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115,<1.0",
+    "uvicorn>=0.30,<1.0",
+    "jinja2>=3.1,<4.0",
+    "python-multipart>=0.0.9",
+    "sqlmodel>=0.0.22,<0.1",
+]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

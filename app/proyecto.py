@@ -10,6 +10,6 @@ MECANICA = "Sonrisa de la suerte"
 
 # Dirección pública de la aplicación desplegada.
 # Ejemplo: "https://plataforma-ludica-abcd.onrender.com"
-URL_PUBLICA = ""
+URL_PUBLICA = "https://plantilla-plataforma-ludica.vercel.app"
 
 VERSION = "0.1.0"
