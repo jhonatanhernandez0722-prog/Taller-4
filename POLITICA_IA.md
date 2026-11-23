@@ -11,8 +11,8 @@ Me comprometo a cumplir las siguientes reglas durante el desarrollo de este proy
 
 | Comandos que el agente puede ejecutar sin confirmación | Comandos que requieren mi confirmación |
 | --- | --- |
-| (complete) | (complete) |
+| `pytest -v`, `ruff check .`, `npm test`, `npm run lint`, `git status`, `git diff`, `git log`, `ls` | `pip install`, `npm install`, `git commit`, `git push`, `git tag`, `gh pr merge`, `rm`, `curl`, `uvicorn app.main:app --reload`, `npm start` |
 
-**Nombre:** (complete)
+**Nombre:** Jhonatan David Hernandez Rodriguez
 
-**Fecha:** (complete)
+**Fecha:** 23/11/2026
